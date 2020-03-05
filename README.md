@@ -26,7 +26,7 @@ Project 4 – Connecting Processing to Arduino
 
 Every week there will be a short assignment, either a reading assignment, a talk, or a art search, where you'll find a piece of art and present (very briefly, as in a small paragraph) on why you think it's interesting. 
 
-###Digital Materiality
+### Digital Materiality
 Week 2
   - 
   
@@ -43,12 +43,12 @@ No Reading -- No Class. Replacement time TBD.
 
 Week 6
 
-###Interaction, Aesthetics, and the Body
+### Interaction, Aesthetics, and the Body
 Week 7
 
 Week 8
-###Communication, Protocols, and Networks
+### Communication, Protocols, and Networks
 Week 9 
 
-###Art as Investigative Practice
+### Art as Investigative Practice
 Week 10
