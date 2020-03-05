@@ -27,11 +27,12 @@ Project 4 – Connecting Processing to Arduino
 Every week there will be a short assignment, either a reading assignment, a talk, or a art search, where you'll find a piece of art and present (very briefly, as in a small paragraph) on why you think it's interesting. 
 
 ### Digital Materiality
-Week 2
-  - 
+
+Week 2 
+  - TBD
   
 Week 3
-  -Abstracting Craft
+  - Abstracting Craft
 
 Week 4
   - Olivia Jack Livecoding https://www.youtube.com/watch?v=cw7tPDrFIQg
@@ -42,13 +43,16 @@ No Reading -- No Class. Replacement time TBD.
 
 
 Week 6
+  - TDB 
 
 ### Interaction, Aesthetics, and the Body
 Week 7
-
+  - TDB
 Week 8
 ### Communication, Protocols, and Networks
 Week 9 
+  - TDB
 
 ### Art as Investigative Practice
 Week 10
+  - TDB
