@@ -15,6 +15,40 @@ can use in their own work and in future classes.
 Course Policies+Info
 
 [Project 1 – LED Strip Playground](https://github.com/erawn/Digital-Workshop-For-Artists-2020/blob/master/Project%201)
+
 Project 2 – Reading Sensors with Arduino
+
 Project 3 – Processing Exploration
+
 Project 4 – Connecting Processing to Arduino
+
+## Reading
+
+Every week there will be a short assignment, either a reading assignment, a talk, or a art search, where you'll find a piece of art and present (very briefly, as in a small paragraph) on why you think it's interesting. 
+
+###Digital Materiality
+Week 2
+  - 
+  
+Week 3
+  -Abstracting Craft
+
+Week 4
+  - Olivia Jack Livecoding https://www.youtube.com/watch?v=cw7tPDrFIQg
+  - Check out her performance too: https://www.youtube.com/watch?v=jyEIDNtt9Hs
+
+Week 5
+No Reading -- No Class. Replacement time TBD.
+
+
+Week 6
+
+###Interaction, Aesthetics, and the Body
+Week 7
+
+Week 8
+###Communication, Protocols, and Networks
+Week 9 
+
+###Art as Investigative Practice
+Week 10
