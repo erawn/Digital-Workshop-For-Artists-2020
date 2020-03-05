@@ -24,12 +24,14 @@ Project 4 – Connecting Processing to Arduino
 
 ## Reading
 
-Every week there will be a short assignment, either a reading assignment, a talk, or a art search, where you'll find a piece of art and present (very briefly, as in a small paragraph) on why you think it's interesting. 
+Every week there will be a short assignment, either a reading assignment, a talk, or an art search, where you'll find a piece of art and present (very briefly, as in a small paragraph) on why you think it's interesting. 
 
 ### Digital Materiality
 
 Week 2 
   - Bring in one piece of art which you would call "Digital" Or "Electronic". Write a small paragraph on why you would and why this piece is interesting, engaging, or important (you'll deliver this in class out loud). To prompt our discussion, think about what digital art is and what it encompasses: is digital art different than other kinds of art? What does it mean to work with digital or electronic materials? What are those materials? 
+  
+  Add a photograph or video of your piece to the class slidedeck here: ------- by the beginning of class. 
   
 Week 3
   - Abstracting Craft
