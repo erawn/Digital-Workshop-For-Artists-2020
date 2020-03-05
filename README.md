@@ -1,5 +1,4 @@
 # Digital-Workshop-For-Artists-2020
-===================================
 
 This accessible one-unit pass/fail introductory workshop class is designed for students who are
 new to working with code and electronics, giving them the technical background necessary to
