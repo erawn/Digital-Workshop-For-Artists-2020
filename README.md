@@ -14,7 +14,7 @@ can use in their own work and in future classes.
 
 Course Policies+Info
 
-[Project 1 – LED Strip Playground]()
+[Project 1 – LED Strip Playground](https://github.com/erawn/Digital-Workshop-For-Artists-2020/blob/master/Project%201)
 Project 2 – Reading Sensors with Arduino
 Project 3 – Processing Exploration
 Project 4 – Connecting Processing to Arduino
