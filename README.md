@@ -29,7 +29,7 @@ Every week there will be a short assignment, either a reading assignment, a talk
 ### Digital Materiality
 
 Week 2 
-  - TBD
+  - Bring in one piece of art which you would call "Digital" Or "Electronic". Write a small paragraph on why you would and why this piece is interesting, engaging, or important (you'll deliver this in class out loud). To prompt our discussion, think about what digital art is and what it encompasses: is digital art different than other kinds of art? What does it mean to work with digital or electronic materials? What are those materials? 
   
 Week 3
   - Abstracting Craft
@@ -41,14 +41,17 @@ Week 4
 Week 5
 No Reading -- No Class. Replacement time TBD.
 
+### Interaction, Aesthetics, and the Body
 
 Week 6
-  - TDB 
-
-### Interaction, Aesthetics, and the Body
+  - Interactive Art and Embodiment, Stern
+  
 Week 7
-  - TDB
+  - TBD
+  
 Week 8
+  - TBD
+  
 ### Communication, Protocols, and Networks
 Week 9 
   - TDB
