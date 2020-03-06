@@ -46,10 +46,11 @@ No Reading -- No Class. Replacement time TBD.
 ### Interaction, Aesthetics, and the Body
 
 Week 6
-  - Interactive Art and Embodiment, Stern
+  - TBD
   
 Week 7
-  - TBD
+  
+  - Interactive Art and Embodiment, Stern
   
 Week 8
   - TBD
@@ -60,4 +61,6 @@ Week 9
 
 ### Art as Investigative Practice
 Week 10
-  - TDB
+  - From the Poesy of Programming to Research as Art Form -- Laurent Mignonneau and Christa Sommerer
+
+
