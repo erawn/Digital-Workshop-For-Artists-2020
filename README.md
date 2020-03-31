@@ -21,7 +21,7 @@ If you have question you'd like to ask individually, you can always message me o
 
 Course Policies+Info
 
-[Project 1 – LED Strip Playground]()
+[Project 1 – Introduction to Processing](https://github.com/erawn/Digital-Workshop-For-Artists-2020/blob/master/Project%201%20-%20Introduction%20to%20Processing)
 
 Project 2 – 
 
