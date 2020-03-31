@@ -13,7 +13,7 @@ creative practice with electronics and software interfaces, with a focus on buil
 can use in their own work and in future classes.
 
 Class Layout
-Due to the now online nature of the class, meeting times will be shortened to ~20min to focus on a short discussion of reading and a presentation of students' work so far. Therefore, most of the work will be up to you to complete whenever you'd like. The projects are designed to be very open-ended and students are always allowed to go in different directions. 
+Due to the now online nature of the class, meeting times will be shortened to ~20min to focus on a short discussion of reading and a presentation of students' work so far. Therefore, most of the work will be up to you to complete whenever you'd like. The projects are designed to be very open-ended prompts to guide your exploration.
 
 Through the week, support will be given in two ways. First, there is a large bank of resources, tutorials, and examples already on this site. If you're looking for ideas or looking for ways to extend your code, this is a good place to start. Second, we'll have a class Slack where everyone can post questions. Before asking a question, be sure to check if your question has already been asked! 
 
@@ -25,11 +25,11 @@ Course Policies
 
 [Project 1 – Introduction to Processing](https://github.com/erawn/Digital-Workshop-For-Artists-2020/blob/master/Project%201%20-%20Introduction%20to%20Processing.md)
 
-Project 2 – 
+Project 2 – Interaction
 
-Project 3 – 
+Project 3 – Data
 
-Project 4 – 
+Project 4 – Final Project
 
 ## Reading
 
@@ -44,7 +44,8 @@ Week 2
   
 ### Digital Materiality
 Week 3
-  - Abstracting Craft
+  - Abstracting Craft: The Practiced Digital Hand -- Malcom McCullough
+    Section: Medium 192-221
 
 Week 4
   - Olivia Jack Livecoding https://www.youtube.com/watch?v=cw7tPDrFIQg
@@ -53,25 +54,24 @@ Week 4
 ### Interaction, Aesthetics, and the Body
 
 Week 5
- -TBD
+ - What's the Use, Sarah Ahmed, 21-30
  
 Week 6
-  - TBD
+  - The Design of Everyday Things, Don Norman, 10-30
   
 Week 7
-  - Interactive Art and Embodiment, Stern
+  - Interactive Art and Embodiment, Nathaniel Stern, Pages TBD
 
 ### Data 
 
 Week 8
-  - TBD
+  - [Trevor Paglen - Six Landscapes](https://www.youtube.com/watch?v=j56s46e97Lo)
   
-
 Week 9 
-  - TDB
+  - Sorting Things Out: Classification and Its Consequences, Geoffrey Bowker and Susan Star, 33-40
 
-### Art as Investigative Practice
+### Final Presentations!
 Week 10
-  - From the Poesy of Programming to Research as Art Form -- Laurent Mignonneau and Christa Sommerer
+  - No Reading
 
 
