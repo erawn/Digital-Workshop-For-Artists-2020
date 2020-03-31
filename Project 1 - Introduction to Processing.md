@@ -2,7 +2,7 @@
 
 The first three weeks you'll get confortable with Processing. If this is your first time programming, you'll probably spend your time getting used to Java. If you've already programmed before, apply programming ideas you already know to make something really cool! 
 
-##Your Goal: Make 5 compositions. Some can be contiuations of a single idea but be sure to iterate and be flexible! Each should reflect unique development. 
+## Your Goal: Make 5 compositions. Some can be contiuations of a single idea but be sure to iterate and be flexible! Each should reflect unique development. 
 
 Specifically, we'll make sure everyone has some bases covered:
 
@@ -12,17 +12,17 @@ Specifically, we'll make sure everyone has some bases covered:
 - Functions
 
 These three tools can make things of surprising complexity in Processing! 
-###If you are new to coding, be sure that you follow the tutorials below and make use of each of these tools in your code! 
+### If you are new to coding, be sure that you follow the tutorials below and make use of each of these tools in your code! 
 
 Your first step will be to download [Processing](https://processing.org/download/). 
-Then, download helloWorld.pde and open it up. Press the play button to run the code and you should see this:
-
+Then, download helloWorld.pde and open it up. Press the play button ![alt text](https://github.com/erawn/Digital-Workshop-For-Artists-2020/blob/master/ProcessingPlay.png "Processing Play Button") to run the code and you should see this:
+![alt text](https://github.com/erawn/Digital-Workshop-For-Artists-2020/blob/master/HelloWorldCanvas.png "helloWorld Render")
 Read through the comments (marked off with "//") next to each line. Try changing each number and running the code again and see what changed - do each of your changes make sense? 
 
 Next, take a look at each of these examples:
 
 - [Variables](http://learningprocessing.com/examples/chp04/example-04-02-usingvars#) and 
-- [If/Else Statements]() and Video
+- [If/Else Statements](https://github.com/erawn/Digital-Workshop-For-Artists-2020/blob/master/p1Conditional.pde) and Video
 - [For](http://learningprocessing.com/examples/chp06/example-06-06-forloop)/[While](http://learningprocessing.com/examples/chp06/example-06-03-whileloop) Loops 
 - [Functions](http://learningprocessing.com/examples/chp07/example-07-02-calling-function)
 
