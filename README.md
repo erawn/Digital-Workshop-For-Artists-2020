@@ -19,7 +19,9 @@ Through the week, support will be given in two ways. First, there is a large ban
 
 If you have question you'd like to ask individually, you can always message me on Slack or send me an email. 
 
-Course Policies+Info
+Course Policies
+
+##Project Pages
 
 [Project 1 – Introduction to Processing](https://github.com/erawn/Digital-Workshop-For-Artists-2020/blob/master/Project%201%20-%20Introduction%20to%20Processing.md)
 
@@ -33,13 +35,14 @@ Project 4 –
 
 Every week there will be a short assignment, either a reading assignment, a talk, or an art search, where you'll find a piece of art and present (very briefly, as in a small paragraph) on why you think it's interesting. 
 
-### Digital Materiality
+##Course Plan 
 
 Week 2 
   - Bring in one piece of art which you would call "Digital" Or "Electronic". Write a small paragraph on why you would and why this piece is interesting, engaging, or important (you'll deliver this in class out loud). To prompt our discussion, think about what digital art is and what it encompasses: is digital art different than other kinds of art? What does it mean to work with digital or electronic materials? What are those materials? 
   
   Add a photograph or video of your piece to the class slidedeck here: ------- by the beginning of class. 
   
+### Digital Materiality
 Week 3
   - Abstracting Craft
 
@@ -47,22 +50,22 @@ Week 4
   - Olivia Jack Livecoding https://www.youtube.com/watch?v=cw7tPDrFIQg
   - Check out her performance too: https://www.youtube.com/watch?v=jyEIDNtt9Hs
 
-Week 5
-No Reading -- No Class. Replacement time TBD.
-
 ### Interaction, Aesthetics, and the Body
+Week 5
+  - 
 
 Week 6
   - TBD
   
 Week 7
-  
   - Interactive Art and Embodiment, Stern
-  
+
+### Data 
+
 Week 8
   - TBD
   
-### Communication, Protocols, and Networks
+
 Week 9 
   - TDB
 
