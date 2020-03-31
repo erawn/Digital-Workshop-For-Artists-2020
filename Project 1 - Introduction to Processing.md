@@ -15,7 +15,7 @@ These three tools can make things of surprising complexity in Processing!
 ### If you are new to coding, be sure that you follow the tutorials below and make use of each of these tools in your code! 
 
 Your first step will be to download [Processing](https://processing.org/download/). 
-Then, download helloWorld.pde and open it up. Press the play button ![alt text](https://github.com/erawn/Digital-Workshop-For-Artists-2020/blob/master/ProcessingPlay.png "Processing Play Button") to run the code and you should see this:
+Then, download [helloWorld.pde](https://github.com/erawn/Digital-Workshop-For-Artists-2020/blob/master/helloWorld.pde) and open it up. Press the play button ![alt text](https://github.com/erawn/Digital-Workshop-For-Artists-2020/blob/master/ProcessingPlay.png "Processing Play Button") to run the code and you should see this:
 ![alt text](https://github.com/erawn/Digital-Workshop-For-Artists-2020/blob/master/HelloWorldCanvas.png "helloWorld Render")
 Read through the comments (marked off with "//") next to each line. Try changing each number and running the code again and see what changed - do each of your changes make sense? 
 
