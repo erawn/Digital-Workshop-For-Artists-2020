@@ -42,6 +42,8 @@ If any part of these are confusing, you might find some of the below resources h
 
 If there's ever a function you don't understand, you'll probably find in the [documentation here](https://processing.org/reference/).
 
+Now- create! Try different shapes and parameters (find them in the documentation above). 
+
 ### Each week you'll post your progress. Due 4/24 in-Class.
 
 ## Deliverables
