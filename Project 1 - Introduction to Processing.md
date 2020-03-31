@@ -42,3 +42,8 @@ If any part of these are confusing, you might find some of the below resources h
 
 If there's ever a function you don't understand, you'll probably find in the [documentation here](https://processing.org/reference/).
 
+###Each week you'll post your progress. Due 4/24 in-Class.
+
+##Deliverables
+- 5 Compositions as image files and the corresponding code used to make those compositions in a ZIP folder. Send it to me as a private message on Slack. Post your favorite image or two in the slideshow for the week to show to the class. 
+
