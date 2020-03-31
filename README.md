@@ -21,7 +21,7 @@ If you have question you'd like to ask individually, you can always message me o
 
 Course Policies
 
-##Project Pages
+## Project Pages
 
 [Project 1 – Introduction to Processing](https://github.com/erawn/Digital-Workshop-For-Artists-2020/blob/master/Project%201%20-%20Introduction%20to%20Processing.md)
 
@@ -35,7 +35,7 @@ Project 4 –
 
 Every week there will be a short assignment, either a reading assignment, a talk, or an art search, where you'll find a piece of art and present (very briefly, as in a small paragraph) on why you think it's interesting. 
 
-##Course Plan 
+## Course Plan 
 
 Week 2 
   - Bring in one piece of art which you would call "Digital" Or "Electronic". Write a small paragraph on why you would and why this piece is interesting, engaging, or important (you'll deliver this in class out loud). To prompt our discussion, think about what digital art is and what it encompasses: is digital art different than other kinds of art? What does it mean to work with digital or electronic materials? What are those materials? 
@@ -51,9 +51,10 @@ Week 4
   - Check out her performance too: https://www.youtube.com/watch?v=jyEIDNtt9Hs
 
 ### Interaction, Aesthetics, and the Body
-Week 5
-  - 
 
+Week 5
+ -TBD
+ 
 Week 6
   - TBD
   
