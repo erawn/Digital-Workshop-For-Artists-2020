@@ -44,6 +44,11 @@ If there's ever a function you don't understand, you'll probably find in the [do
 
 Now- create! Try different shapes and parameters (find them in the documentation above), experiment with color and composition. Have fun! (it's the most important part). 
 
+Some things to try:
+- [Noise()](https://processing.org/reference/noise_.html)
+- [Sin Waves](https://processing.org/reference/sin_.html)
+- [Millis()](https://processing.org/reference/millis_.html)
+
 ### Each week you'll post your progress. Due 4/24 in-Class.
 
 ## Deliverables
