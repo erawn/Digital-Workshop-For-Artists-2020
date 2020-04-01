@@ -64,6 +64,7 @@ Week 7
 
 Week 8
   - [Trevor Paglen - Six Landscapes](https://youtu.be/j56s46e97Lo)
+    Watch the first 20min (although the whole talk is great!). 
   
 Week 9 
   - Sorting Things Out: Classification and Its Consequences, Geoffrey Bowker and Susan Star, 33-40
