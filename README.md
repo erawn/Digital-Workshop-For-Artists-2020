@@ -63,7 +63,7 @@ Week 7
 ### Data 
 
 Week 8
-  - [Trevor Paglen - Six Landscapes](https://www.youtube.com/watch?v=j56s46e97Lo)
+  - [Trevor Paglen - Six Landscapes](https://youtu.be/j56s46e97Lo)
   
 Week 9 
   - Sorting Things Out: Classification and Its Consequences, Geoffrey Bowker and Susan Star, 33-40
