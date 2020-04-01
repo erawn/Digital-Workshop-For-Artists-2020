@@ -6,10 +6,9 @@ feel comfortable in digital studio classes such as Embodied Interfaces (162), Dr
 (163), Making it With Arduino (130), and other Emerging Media courses. By teaching
 introductory electronics and programming concepts specifically to be used in creative practice,
 this workshop class will be an accessible introduction to using electronics in students' own
-artistic endeavors. Students will learn to program LED strips, read sensors with Arduino, learn to
-code in Processing, and become familiar with a pipeline to connect all three. Through hands-on
-demonstrations and creative exploration in class, students will learn an actionable toolbox for
-creative practice with electronics and software interfaces, with a focus on building skills students
+artistic endeavors. Students will learn to use code as a creative material, investigating digital 
+interaction, data, and design with art. Through in-class discussions and guided independent work,
+students will learn an actionable toolbox for creative practice with software interfaces, with a focus on building skills students
 can use in their own work and in future classes.
 
 Class Layout
