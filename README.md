@@ -11,14 +11,14 @@ interaction, data, and design with art. Through in-class discussions and guided 
 students will learn an actionable toolbox for creative practice with software interfaces, with a focus on building skills students
 can use in their own work and in future classes.
 
-Class Layout
+## Class Layout
 Due to the now online nature of the class, meeting times will be shortened to ~20min to focus on a short discussion of reading and a presentation of students' work so far. Therefore, most of the work will be up to you to complete whenever you'd like. The projects are designed to be very open-ended prompts to guide your exploration.
 
 Through the week, support will be given in two ways. First, there is a large bank of resources, tutorials, and examples already on this site. If you're looking for ideas or looking for ways to extend your code, this is a good place to start. Second, we'll have a class Slack where everyone can post questions. Before asking a question, be sure to check if your question has already been asked! 
 
 If you have question you'd like to ask individually, you can always message me on Slack or send me an email. 
 
-Course Policies
+[Course Policies]()
 
 ## Project Pages
 
