@@ -30,9 +30,8 @@ Project 3 – Data
 
 Project 4 – Final Project
 
-## Reading
-
-Every week there will be a short assignment, either a reading assignment, a talk, or an art search, where you'll find a piece of art and present (very briefly, as in a small paragraph) on why you think it's interesting. 
+## Assignment Structure
+Every week students will post a work update to (very) briefly discuss each meeting. In addition, there will be weekly reading assignments, usually with a small prompt to guide your thinking and occasionally a required response (no more than a few sentences). 
 
 ## Course Plan 
 
