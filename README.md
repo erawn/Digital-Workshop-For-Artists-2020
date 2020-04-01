@@ -46,8 +46,8 @@ Week 3
     Section: Medium 192-221
 
 Week 4
-  - Olivia Jack Livecoding https://www.youtube.com/watch?v=cw7tPDrFIQg
-  - Check out her performance too: https://www.youtube.com/watch?v=jyEIDNtt9Hs
+  - [Olivia Jack Livecoding](https://www.youtube.com/watch?v=cw7tPDrFIQg)
+  - [Check out her performance too](https://www.youtube.com/watch?v=jyEIDNtt9Hs)
 
 ### Interaction, Aesthetics, and the Body
 
