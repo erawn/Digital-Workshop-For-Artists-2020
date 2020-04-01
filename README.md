@@ -18,7 +18,7 @@ Through the week, support will be given in two ways. First, there is a large ban
 
 If you have question you'd like to ask individually, you can always message me on Slack or send me an email. 
 
-[Course Policies]()
+[Course Policies](https://github.com/erawn/Digital-Workshop-For-Artists-2020/blob/master/Course%20Policies.md)
 
 ## Project Pages
 
