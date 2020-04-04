@@ -42,7 +42,7 @@ Week 2
   
 ### Digital Materiality
 Week 3
-  - Abstracting Craft: The Practiced Digital Hand -- Malcom McCullough
+  - Abstracting Craft: The Practiced Digital Hand -- Malcom McCullough - Read up to "Appreciation", I've left the rest of the chapter in case you're interested. 
      <br>Prompt: "Acute knowledge of a medium's structure comes not by theory but through involvement." Look at Table 7.2 of "Continuous Operations". Let's add one more line: Programming- what is the "Continuous Process" at work here? How many different ways can you describe the *involvement* at play in programming as a creative medium? Two to Five Sentences. 
 
 Week 4
