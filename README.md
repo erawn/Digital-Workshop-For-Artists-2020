@@ -43,7 +43,7 @@ Week 2
 ### Digital Materiality
 Week 3
   - Abstracting Craft: The Practiced Digital Hand -- Malcom McCullough
-    Section: Medium 192-221
+     Prompt: "Acute knowledge of a medium's structure comes not by theory but through involvement." Look at Table 7.2 of "Continuous Operations". Let's add one more line: Programming- what is the "Continuous Process" at work here? How many different ways can you describe the *involvement* at play in programming as a creative medium? Two to Five Sentences. 
 
 Week 4
   - [Olivia Jack Livecoding](https://www.youtube.com/watch?v=cw7tPDrFIQg)
@@ -52,13 +52,15 @@ Week 4
 ### Interaction, Aesthetics, and the Body
 
 Week 5
- - What's the Use, Sarah Ahmed, 21-30
+ - What's the Use, Sarah Ahmed, 21-26
+    Prompt: Sarah Ahmed presents many ways in which use can operate in our lives. If we view interactive art as art *about* how people  use computers, what does Ahmed help us see about how computers can, should, or ought to be used? Pick one facet of use Ahmed describes and think about how it might apply to computers. Two to Five sentences.  
  
 Week 6
-  - The Design of Everyday Things, Don Norman, 10-30
+  - The Design of Everyday Things, Don Norman, 10-19
+    Prompt: Art made with computers necessarily includes a background of design: norms and paradigms of how, where, and why we should interact with computers. What happens when we use Norman's language of affordances and signifiers to make art? How can the language of design be repurposed or investigated with digital art? Two to Five sentences. 
   
 Week 7
-  - Interactive Art and Embodiment, Nathaniel Stern, Pages TBD
+  - Interactive Art and Embodiment, Nathaniel Stern, Read up to (not including) "Vestigial-Vision". (4 Pages)
 
 ### Data 
 
