@@ -1,6 +1,6 @@
 ## Attendance and Grading
 
-This class is designed to be pressure-free, which means that completion of the assignments will be the only measure for grading. However, this class only meets a total of 10 times during the quarter. As a result, two unexcused absences will result in not receiving credit and not passing this class. Because of ongoing circumstances, I completely understand if your situation may be unstable or prevent you from engaging with this class for the same amount each week. Therefore, I only ask that communicate with me early and often, and I promise we can work something out. This class should not add any stress!
+This class is designed to be pressure-free, which means that completion of the assignments will be the only measure for grading. However, this class only meets a total of 10 times during the quarter. As a result, two **unexcused** absences will result in not receiving credit and not passing this class. Because of ongoing circumstances, I completely understand if your situation may be unstable or prevent you from engaging with this class for the same amount each week. Therefore, I only ask that communicate with me early and often, and I promise we can work something out. This class should not add any stress!
 
 ## Honor Code and Fundamental Standard
 
