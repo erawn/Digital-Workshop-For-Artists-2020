@@ -61,7 +61,7 @@ Week 6
     <br>Prompt: Art made with computers necessarily includes a background of design: norms and paradigms of how, where, and why we should interact with computers. What happens when we use Norman's language of affordances and signifiers to make art? How can the language of design be repurposed or investigated with digital art? Two to Five sentences. 
   
 Week 7
-  - Interactive Art and Embodiment, Nathaniel Stern, Read up to (not including) "Vestigial-Vision". (4 Pages)
+  - Interactive Art and Embodiment, Nathaniel Stern, Excerpt (4 Pages)
 
 ### Data 
 
