@@ -71,6 +71,7 @@ Week 9
 
 ### Final Presentations!
 Week 10
-  - No Reading
+  - No Reading - Everyone will submit an image/video/audio/etc file to the slidedeck to show. We'll wrap up with a 
+  summary and course reflection. 
 
 
