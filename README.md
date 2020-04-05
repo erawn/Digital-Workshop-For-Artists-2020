@@ -49,7 +49,7 @@ Week 3
   - Abstracting Craft: The Practiced Digital Hand -- Malcom McCullough - Read up to "Appreciation", I've left the rest of the chapter in case you're interested. 
      <br>Prompt: "Acute knowledge of a medium's structure comes not by theory but through involvement." Look at Table 7.2 of "Continuous Operations". Let's add one more line: Programming- what is the "Continuous Process" at work here? How many different ways can you describe the *involvement* at play in programming as a creative medium? Two to Five Sentences. 
      
- <br> **Project 1 Due**
+ <br> **Project 1 Due**<br>
  
 Week 4
   - [Olivia Jack Livecoding](https://www.youtube.com/watch?v=cw7tPDrFIQg)
@@ -65,7 +65,9 @@ Week 5
 Week 6
   - The Design of Everyday Things, Don Norman, 10-19
     <br>Prompt: Art made with computers necessarily includes a background of design: norms and paradigms of how, where, and why we should interact with computers. What happens when we use Norman's language of affordances and signifiers to make art? How can the language of design be repurposed or investigated with digital art? Two to Five sentences. 
-     <br> **Project 2 Due**
+    
+     <br> **Project 2 Due** <br>
+     
 Week 7
   - Interactive Art and Embodiment, Nathaniel Stern, Excerpt (4 Pages)
     <br>Prompt: This is a shorter but more difficult reading, so to help guide your understanding please summarize the reading in a short paragraph. What is being argued here, and why does it matter? 
