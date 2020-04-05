@@ -31,7 +31,7 @@ Project 2 – Interaction
 Project 3 – Final Project
 
 ## Assignment Structure
-Every week students will post a work update to (very) briefly discuss. In addition, there will be weekly reading assignments, usually with a small prompt to guide your thinking and a short required response (no more than a few sentences). **To submit the reading response, just paste it as a note in your Slide on the class slide deck**
+Every week students will post a work update to (very) briefly discuss in the Class Slide Deck. In addition, there will be weekly reading assignments, usually with a small prompt to guide your thinking and a short required response (no more than a few sentences). **To submit the reading response, just paste it as a note in your Slide on the class slide deck**
 
 **[Get the Readings Here (Requires @stanford.edu email)](https://drive.google.com/drive/folders/1ERiMNj-_5ZBVQNevuahEDNr1m5JeXmdU?usp=sharing)**
 
