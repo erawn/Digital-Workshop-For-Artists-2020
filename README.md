@@ -77,6 +77,7 @@ Week 8
   
 Week 9 
   - Sorting Things Out: Classification and Its Consequences, Geoffrey Bowker and Susan Star, 33-40
+    <br>Prompt: This reading discusses the many ways in which infrastructure operates to invisibly sustain norms. Give an example of how computers or digital infrastructure operates in such a way in your life. How could digital art be used to reveal or investigate that operation? Three to Five sentences. 
 
 ### Final Presentations!
 Week 10
