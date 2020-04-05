@@ -33,7 +33,7 @@ Project 4 – Final Project
 ## Assignment Structure
 Every week students will post a work update to (very) briefly discuss each meeting. In addition, there will be weekly reading assignments, usually with a small prompt to guide your thinking and occasionally a required response (no more than a few sentences). 
 
-Get the Readings Here (Requires @stanford.edu email): 
+**[Get the Readings Here (Requires @stanford.edu email)](https://drive.google.com/drive/folders/1ERiMNj-_5ZBVQNevuahEDNr1m5JeXmdU?usp=sharing)**
 
 ## Course Plan 
 
