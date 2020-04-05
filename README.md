@@ -42,7 +42,7 @@ Every week students will post a work update to (very) briefly discuss each meeti
 Week 2 
   - Bring in one piece of art which you would call "Digital" Or "Electronic". Write a small paragraph on why you would and why this piece is interesting, engaging, or important (you'll deliver this in class out loud). To prompt our discussion, think about what digital art is and what it encompasses: is digital art different than other kinds of art? What does it mean to work with digital or electronic materials? What are those materials? 
   
-**Add a photograph or video of your piece to the class slidedeck before class next week.**
+**Add a photograph or video of your piece to the slidedeck before class.**
   
 ### Digital Materiality
 Week 3
