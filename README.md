@@ -53,6 +53,8 @@ Week 4
   - [Olivia Jack Livecoding](https://www.youtube.com/watch?v=cw7tPDrFIQg)
   - [Check out her performance too](https://www.youtube.com/watch?v=jyEIDNtt9Hs)
    <br> Prompt: Jack presents Hydra as a digital art medium in a different paradigm to Processing. Summarize her point in one or two sentences, and then muse about the paradigm Processsing finds itself in: what kinds of assumptions does it make about who is making art and how they're making it? For what purpose? How is this different than the livecoding she presents? For ideas, take a look at her performance video and compare her experience of making art to yours in Processing. 
+   
+ <br> **Project 1 Due**
 
 ### Interaction, Design, and the Body
 
@@ -67,6 +69,8 @@ Week 6
 Week 7
   - Interactive Art and Embodiment, Nathaniel Stern, Excerpt (4 Pages)
     <br>Prompt: This is a shorter but more difficult reading, so to help guide your understanding please summarize the reading in a short paragraph. What is being argued here, and why does it matter? 
+    
+   <br> **Project 2 Due**
 
 ### Data 
 
@@ -83,5 +87,7 @@ Week 9
 Week 10
   - No Reading - Everyone will submit an image/video/audio/etc file to the slidedeck to show. We'll wrap up with a 
   summary and course reflection. 
+  
+ <br> **Final Project Due**
 
 
