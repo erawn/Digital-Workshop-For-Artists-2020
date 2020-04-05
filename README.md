@@ -35,7 +35,7 @@ Every week students will post a work update to (very) briefly discuss each meeti
 
 **[Get the Readings Here (Requires @stanford.edu email)](https://drive.google.com/drive/folders/1ERiMNj-_5ZBVQNevuahEDNr1m5JeXmdU?usp=sharing)**
 
-**[Class Slide Deck Here](https://docs.google.com/presentation/d/1IOO9QbiZQcIALmaGqD05RVyUlH74awBG1mb2NLsPSLo/edit?usp=sharing)**
+**[Class Slide Deck Here (Requires @stanford.edu email)](https://docs.google.com/presentation/d/1IOO9QbiZQcIALmaGqD05RVyUlH74awBG1mb2NLsPSLo/edit?usp=sharing)**
 
 ## Course Plan 
 
