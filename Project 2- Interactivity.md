@@ -12,7 +12,7 @@ Create an interactive work in Processing. Record a video of the work along with 
 
 [Mouse/Keyboard Interaction](https://processing.org/tutorials/interactivity/)
 
-[Live Video Tutorial](https://processing.org/tutorials/video/)\
+[Live Video Tutorial](https://processing.org/tutorials/video/)
 
 [Motion Tracking](http://learningprocessing.com/exercises/chp16/exercise-16-07-track-motion)
 
