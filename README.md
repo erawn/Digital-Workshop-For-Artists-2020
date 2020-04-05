@@ -66,6 +66,7 @@ Week 6
   
 Week 7
   - Interactive Art and Embodiment, Nathaniel Stern, Excerpt (4 Pages)
+    <br>Prompt: This is a shorter but more difficult reading, so to help guide your understanding please summarize the reading in a short paragraph. What is being argued here, and why does it matter? 
 
 ### Data 
 
