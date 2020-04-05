@@ -73,6 +73,7 @@ Week 7
 Week 8
   - [Trevor Paglen - Six Landscapes](https://youtu.be/j56s46e97Lo)
     Watch the first 20min (although the whole talk is great!). 
+    <br>Prompt: At first glance this might be a weird introduction to "Data", but Paglen is dealing with many kinds of data as a medium. How is data playing a role in his work? What are the political/artistic consequences of that data in his art? Two to Five Sentences.
   
 Week 9 
   - Sorting Things Out: Classification and Its Consequences, Geoffrey Bowker and Susan Star, 33-40
