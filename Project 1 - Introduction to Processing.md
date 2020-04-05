@@ -49,7 +49,7 @@ Some things to try:
 - [Sin Waves](https://processing.org/reference/sin_.html)
 - [Millis()](https://processing.org/reference/millis_.html)
 
-### Each week you'll post your progress. Due 4/24 in-Class.
+### Each week you'll post your progress. Due 5/1 in-Class.
 
 ## Deliverables
 - 5 Compositions as image files and the corresponding code used to make those compositions in a ZIP folder. Send it to me as a private message on Slack. Post your favorite image or two in the slideshow for the week to show to the class. 
