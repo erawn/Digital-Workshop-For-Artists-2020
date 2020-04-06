@@ -8,7 +8,7 @@ void draw(){ //After setup() is called once, draw() is then called over and over
              //we'll do our drawing and manage things that move and change over time! 
              
   background(255); //This function sets the color of the canvas background. It accepts a 
-                   // 0-255 number or three 0-255 number to specify Red, Green, Blue 
+                   // 0-255 number (from black to white) or three 0-255 number to specify colors as a mix of Red, Green, Blue 
                    // like this: background(78, 214, 228) to make the background aqua!
                    
   stroke(0);       // This function sets the color of the stroke of any shapes we tell processing
