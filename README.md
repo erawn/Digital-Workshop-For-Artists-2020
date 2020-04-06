@@ -1,6 +1,6 @@
 # Digital Workshop For Artists - Spring 2020
 
-This accessible one-unit pass/fail introductory workshop class is designed for students who are
+This one-unit pass/fail introductory workshop class is designed for students who are
 new to working with code and electronics, giving them the technical background necessary to
 feel comfortable in digital studio classes such as Embodied Interfaces (162), Drawing with Code
 (163), Making it With Arduino (130), and other Emerging Media courses. By teaching
