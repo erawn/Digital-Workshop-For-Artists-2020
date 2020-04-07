@@ -42,39 +42,39 @@ Every week students will post a work update to (very) briefly discuss in the Cla
 Week 2 
   - Bring in one piece of art which you would call "Digital" Or "Electronic". Write a small (small!) paragraph on why you would and why this piece is interesting, engaging, or important (you'll deliver this in class out loud). To prompt our discussion, think about what digital art is and what it encompasses: is digital art different than other kinds of art? What does it mean to work with digital or electronic materials? What are those materials? 
   
-**Add a photograph or video of your piece to the slidedeck before class.**
+**Slides:Add a photograph or video of your piece to the slidedeck before class.**
   
 ### Digital Materiality
 Week 3
   - Abstracting Craft: The Practiced Digital Hand -- Malcom McCullough - Read up to "Appreciation", I've left the rest of the chapter in case you're interested. 
      <br>Prompt: "Acute knowledge of a medium's structure comes not by theory but through involvement." Look at Table 7.2 of "Continuous Operations". Let's add one more line: Programming- what is the "Continuous Process" at work here? How many different ways can you describe the *involvement* at play in programming as a creative medium? Two to Five Sentences. 
      
- <br> **Project 1 Due**<br>
+ <br> **Slides:Project 1 Due**<br>
  
 Week 4
   - [Olivia Jack Livecoding](https://www.youtube.com/watch?v=cw7tPDrFIQg)
   - [Check out her performance too](https://www.youtube.com/watch?v=jyEIDNtt9Hs)
    <br> Prompt: Jack presents Hydra as a digital art medium in a different paradigm to Processing. Summarize her point in one or two sentences, and then muse about the paradigm Processsing finds itself in: what kinds of assumptions does it make about who is making art and how they're making it? For what purpose? How is this different than the livecoding she presents? For ideas, take a look at her performance video and compare her experience of making art to yours in Processing. 
 
- <br> **Project 2 Update**<br>
+ <br> **Slides:Project 2 Update**<br>
 ### Interaction, Design, and the Body
 
 Week 5
  - What's the Use, Sarah Ahmed, 21-26
     <br>Prompt: Sarah Ahmed presents many ways in which use can operate in our lives. If we view interactive art as art *about* how people  use computers, what does Ahmed help us see about how computers can, should, or ought to be used? Pick one facet of use Ahmed describes and think about how it might apply to computers. Two to Five sentences.  
     
- <br> **Project 2 Update**<br>
+ <br> **Slides:Project 2 Update**<br>
  
 Week 6
   - The Design of Everyday Things, Don Norman, 10-19
     <br>Prompt: Art made with computers necessarily includes a background of design: norms and paradigms of how, where, and why we should interact with computers. What happens when we use Norman's language of affordances and signifiers to make art? How can the language of design be repurposed or investigated with digital art? Two to Five sentences. 
     
-     <br> **Project 2 Due** <br>
+     <br> **Slides:Project 2 Due** <br>
      
 Week 7
   - Interactive Art and Embodiment, Nathaniel Stern, Excerpt (4 Pages)
     <br>Prompt: This is a shorter but more difficult reading, so to help guide your understanding please summarize the reading in a short paragraph. What is being argued here, and why does it matter? 
-     <br> **Final Project Update** <br>
+     <br> **Slides:Final Project Update** <br>
 
 
 ### Data 
@@ -83,12 +83,12 @@ Week 8
   - [Trevor Paglen - Six Landscapes](https://youtu.be/j56s46e97Lo)
     Watch the first 20min (although the whole talk is great!). 
     <br>Prompt: At first glance this might be a weird introduction to "Data", but Paglen is dealing with many kinds of data as a medium. How is data playing a role in his work? What are the political/artistic consequences of that data in his art? Two to Five Sentences.
-    <br> **Final Project Update** <br>
+    <br> **Slides:Final Project Update** <br>
 ### Final Presentations!
 Week 9 
   - Optional Reading: Sorting Things Out: Classification and Its Consequences, Geoffrey Bowker and Susan Star, 33-40
     <br>Prompt: This reading discusses the many ways in which infrastructure operates to invisibly sustain norms. Give an example of how computers or digital infrastructure operates in such a way in your life. How could digital art be used to reveal or investigate that operation? Three to Five sentences. 
   
- <br> **Final Project Due**
+ <br> **Slides:Final Project Due**
 
 
