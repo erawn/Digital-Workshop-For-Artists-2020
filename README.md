@@ -56,11 +56,14 @@ Week 4
   - [Check out her performance too](https://www.youtube.com/watch?v=jyEIDNtt9Hs)
    <br> Prompt: Jack presents Hydra as a digital art medium in a different paradigm to Processing. Summarize her point in one or two sentences, and then muse about the paradigm Processsing finds itself in: what kinds of assumptions does it make about who is making art and how they're making it? For what purpose? How is this different than the livecoding she presents? For ideas, take a look at her performance video and compare her experience of making art to yours in Processing. 
 
+ <br> **Project 2 Update**<br>
 ### Interaction, Design, and the Body
 
 Week 5
  - What's the Use, Sarah Ahmed, 21-26
     <br>Prompt: Sarah Ahmed presents many ways in which use can operate in our lives. If we view interactive art as art *about* how people  use computers, what does Ahmed help us see about how computers can, should, or ought to be used? Pick one facet of use Ahmed describes and think about how it might apply to computers. Two to Five sentences.  
+    
+ <br> **Project 2 Update**<br>
  
 Week 6
   - The Design of Everyday Things, Don Norman, 10-19
@@ -71,7 +74,7 @@ Week 6
 Week 7
   - Interactive Art and Embodiment, Nathaniel Stern, Excerpt (4 Pages)
     <br>Prompt: This is a shorter but more difficult reading, so to help guide your understanding please summarize the reading in a short paragraph. What is being argued here, and why does it matter? 
-    
+     <br> **Final Project Update** <br>
 
 
 ### Data 
@@ -80,7 +83,7 @@ Week 8
   - [Trevor Paglen - Six Landscapes](https://youtu.be/j56s46e97Lo)
     Watch the first 20min (although the whole talk is great!). 
     <br>Prompt: At first glance this might be a weird introduction to "Data", but Paglen is dealing with many kinds of data as a medium. How is data playing a role in his work? What are the political/artistic consequences of that data in his art? Two to Five Sentences.
-    
+    <br> **Final Project Update** <br>
 ### Final Presentations!
 Week 9 
   - Optional Reading: Sorting Things Out: Classification and Its Consequences, Geoffrey Bowker and Susan Star, 33-40
