@@ -26,7 +26,7 @@ If you have question you'd like to ask individually, you can always message me o
 
 [Project 1 – Introduction to Processing](https://github.com/erawn/Digital-Workshop-For-Artists-2020/blob/master/Project%201%20-%20Introduction%20to%20Processing.md)
 
-Project 2 – Interaction
+[Project 2 – Interaction](https://github.com/erawn/Digital-Workshop-For-Artists-2020/blob/master/Project%202-%20Interactivity.md)
 
 Project 3 – Final Project
 
