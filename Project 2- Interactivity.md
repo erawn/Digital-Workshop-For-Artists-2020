@@ -18,6 +18,15 @@ Create an interactive work in Processing. Record a video of the work along with 
 
 
 ## Inspiration
+https://vimeo.com/2892576
+
+https://vimeo.com/8525186
+
+https://youtu.be/ElLytAZK-Lc
+
+https://vimeo.com/114767889
+
+https://www.youtube.com/watch?v=f_u3sSffS78
 
 https://www.youtube.com/watch?v=gWU7VIrzYlQ 
 
